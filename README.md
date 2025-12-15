@@ -13,7 +13,7 @@
    ```
 3. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Mikle-kekich/KR5-Front-Back
+   git clone https://github.com/qGame4K/ColorCircle
    ```
 4. Перейдите в папку проекта:
    ```bash
